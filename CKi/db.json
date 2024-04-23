@@ -1,0 +1,88 @@
+{
+  "hoareal": [
+    {
+      "id": "HT1",
+      "name": "Hoa đồng tiền",
+      "img": "./img/01.png",
+      "price": "150",
+      "quantity": "50",
+      "detail": "Hoa đồng tiền đỏ"
+    },
+    {
+      "id": "HT2",
+      "name": "Hoa hồng ",
+      "img": "./img/02.jpg",
+      "price": "200",
+      "quantity": "99",
+      "detail": "Hoa hồng đỏ"
+    },
+    {
+      "id": "HT3",
+      "name": "Hoa hướng dương",
+      "img": "./img/03.jpg",
+      "price": "390",
+      "quantity": "100",
+      "detail": "Hoa hướng dương"
+    },
+    {
+      "id": "HT4",
+      "name": "Hoa lan",
+      "img": "./img/04.jpg",
+      "price": "590",
+      "quantity": "20",
+      "detail": "Hoa lan"
+    }
+  ],
+  "hoafake": [
+    {
+      "id": "HG10",
+      "name": "Hoa hồng ",
+      "img": "./img/10.jpg",
+      "price": "200",
+      "quantity": "12",
+      "detail": "Hoa hồng sáp lâu bền"
+    },
+    {
+      "id": "HG11",
+      "name": "Hoa tulip",
+      "img": "./img/11.jpg",
+      "price": "155",
+      "quantity": "75",
+      "detail": "Hoa tulip vải sang trọng"
+    },
+    {
+      "id": "HG13",
+      "name": "Hoa mộc lan",
+      "img": "./img/13.jpg",
+      "price": "550",
+      "quantity": "10",
+      "detail": "Hoa mộc lan vải lụa cao cấp"
+    },
+    {
+      "id": "HG15",
+      "name": "Hoa ly",
+      "img": "./img/15.jpg",
+      "price": "400",
+      "quantity": "99",
+      "detail": "Hoa ly nhựa dẻo cao cấp"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "kieu",
+      "phone": "",
+      "gmail": "",
+      "address": "",
+      "gender": "true"
+    },
+    {
+      "id": "2",
+      "name": "tu",
+      "phone": "",
+      "gmail": "",
+      "address ": "",
+      "gender": "true"
+    }
+  ]
+}
